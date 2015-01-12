@@ -1,0 +1,46 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It QUICKLY narrowed down the parts of the two files that were different and eliminated the rest.
+    It presented them side by side - or stacked on top of each other, so that I could easily compare 
+    the differences.    
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    I could help me deconstruct changes that have been made.  I could more easily trial changes and 
+    then go back to previous versions if I don't like the changes or something breaks.  Also, I can
+     walk back through my thought processes to see where things went wrong.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pro's: you can choose the points in the process you think are important to mark.
+    Fewer committs to review, fewer versions
+
+    Con's: You might forget, loose service, have a power outage.
+    You may not be aware of the important points you need to mark.
+    More storage space.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    With Git, you can work offline, make lots of little changes and then upload your work without
+     having to be connected.  Google Docs is web based, so to be working in them is to be connected.  Git is programmer directed, so tracks changes among inter-related files.  
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Well, log will show me the history of commits to a document.  I can then choose the versions of 
+    the file that I want to compare to see what changed between them if I know what or where the issue
+     occured.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Having copies means that you can always go back to the version before you broke it, so I don't
+     need to fear losing data or ruining a program.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Building a webpage and then a web app.

@@ -1,3 +1,10 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 When you initialize a repository, you are setting up git to begin tracking all changes.  You need to do it because git does not track every single file...you need to tell it which ones you want to track.  Then initializing it allows it to take a snap shot at the place you want to begin tracking.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area gives you a point in time and saves changes, but it doesn't actually store them yet.  That way you can make several changes, save them, and then store them together as a commit.  The repository gives you a chunk of changes that are stored.  Gives you a couple of areas to try out changes, save them but not make the actual changes yet.
+
+
+

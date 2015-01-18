@@ -6,5 +6,8 @@ How is the staging area different from the working directory and the repository?
 
 The staging area gives you a point in time and saves changes, but it doesn't actually store them yet.  That way you can make several changes, save them, and then store them together as a commit.  The repository gives you a chunk of changes that are stored.  Gives you a couple of areas to try out changes, save them but not make the actual changes yet.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+you can run a diff and then see which files have been modified.  Then you could make a separate commit for each one or even group a couple of them together.
 
 

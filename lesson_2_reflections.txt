@@ -10,4 +10,10 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 you can run a diff and then see which files have been modified.  Then you could make a separate commit for each one or even group a couple of them together.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When two people are working on two different aspects of a program.  If you want to try something completely different without disrupting something that is already working.  If there is a file that many people have access to and are changing.
+Branches let you make changes, multiple ones over time, without disrupting the version taht the other people have access to.
+
+
 

@@ -1,1 +1,3 @@
 Why would you want to create a remote repository rather than keeping all your work local?
+Keeping it centrally allows multiple people to be working with the same code.  Also, allows me to access it from different 
+computers and also allows me to have a saved copy incase something happens to my personal computer.

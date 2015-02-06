@@ -1,3 +1,9 @@
 Why would you want to create a remote repository rather than keeping all your work local?
 Keeping it centrally allows multiple people to be working with the same code.  Also, allows me to access it from different 
 computers and also allows me to have a saved copy incase something happens to my personal computer.
+
+Why might you want to always pull changes manually rather than having Git automatically stay
+up-to-date with your remote repository?
+
+It allows you to keep the files on your personal computer independent from any changes that happen on Github.
+

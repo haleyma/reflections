@@ -14,3 +14,9 @@ Forks make a copy of someone else's repository in your GitHub account - makes a 
 Clones copy a repository and all it's commits to your home computer and makes a git remote on your computer.
 
 Fork to copy something on GitHub...clone to move it to my computer to make changes.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Gives you a starting point from which to begin working offline.  You can work offline
+if you don't have internet access.  It gives you the point at which you began working.
+
+
